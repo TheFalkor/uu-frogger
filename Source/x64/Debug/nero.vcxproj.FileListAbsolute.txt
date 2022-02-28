@@ -1,0 +1,2 @@
+C:\Users\heeee\source\repos\C++ 3\Frogger\Source\x64\Debug\nero.exe
+C:\Users\heeee\source\repos\C++ 3\Frogger\Source\x64\Debug\nero.pdb
